@@ -1,0 +1,211 @@
+*{
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    background-color: rgb(4, 39, 56);  
+    color: white; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+nav{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    padding-left: 30px;
+}
+#join{
+    margin-left: 30px;
+    background-color: rgb(59, 117, 184);
+    color: white;
+    width: 120px;
+    height: 30px;
+    border:  2px solid rgb(59, 117, 184);
+    border-radius: 50px;
+}
+#Tomb{
+    padding: 80px;
+    line-height: 200px;
+    font-size: 100px;
+}
+#printing{
+    font-size: 20px;
+    padding: 0px 80px;
+    color:  rgb(59, 117, 184);;
+}
+#button{
+    padding: 30px 80px 80px;
+}
+#learn{
+    background-color: rgb(59, 117, 184);
+    color: white;
+    width: 120px;
+    height: 30px;
+    border:  2px solid rgb(59, 117, 184);
+}
+#free{
+    background-color: white;
+    color:  rgb(4, 39, 56);
+    width: 120px;
+    height: 30px;
+    border:  2px solid white;
+}
+#title{
+    padding-top:20px ;
+    text-align: center;
+    line-height: 40px;
+}
+.answer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+/* #unlock{
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+} */
+#sect{
+    width: 45%; 
+}
+#sect p{
+    margin-left: 100px;
+    width: 100%;
+}
+#phen img{
+    width: 45%;
+    /* padding-left: 300px; */
+    margin-left: 350px;
+}
+#the{
+    text-align: center;
+}
+#what{
+    text-align: center;
+    padding-top: 30px;
+}
+#benefits{
+    text-align: center;
+    padding-top: 20px;
+}
+#body{
+    margin: 20px;
+}
+#container{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+#container .column button{
+    display: block;
+    margin: 30px;
+    background-color: rgb(4, 34, 49) ;
+    color: white;
+    border: 2px solid white;
+    border-radius: 5px;
+    width: 120px;
+    height: 40px;
+}
+#justify{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#now{
+    background-color: rgb(4, 34, 49) ;
+    color: white;
+    border: 2px solid white;
+    border-radius: 5px;
+    width: 120px;
+    height: 40px;
+    text-align: center;
+}
+#read{
+    text-align: center;
+    padding-top: 60px;
+}
+#comments{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 30px;
+}
+.jack{
+    text-align: center;
+}
+.jack h6{
+    padding-bottom: 20px;
+}
+.jack hr{
+   color:  rgb(59, 117, 184); ;
+}
+.jack p{
+    line-height: 40px;
+}
+#view{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#view button{
+    background-color: rgb(4, 34, 49) ;
+    color: white;
+    border: 2px solid white;
+    border-radius: 5px;
+    width: 120px;
+    height: 40px;
+    text-align: center; 
+}
+#start{
+    color: white;
+    text-align: center;
+    margin-left: 100px;
+}
+#mey{
+    display: flex;
+    align-items: center;
+}
+#mey p{
+    margin-left: 10px;
+    font-size: 15px;
+}
+#To h3{
+    margin-right: 500px;
+}
+#Gr button{
+    background-color: white;
+    color:  rgb(4, 39, 56);
+    width: 180px;
+    height: 30px;
+    border:  2px solid white;
+    border-radius: 30px;
+    font-size: 16px;
+    padding: 20px 0p;
+}
+#in button{
+    background-color: rgb(4, 34, 49) ;
+    color: white;
+    border: 2px solid rgb(4, 34, 49) ;
+    border-radius: 5px;
+    width: 200px;
+    height: 40px;
+    text-align: left;
+    margin-top: 10px;
+}
+#inting{
+    background-image: url(assets/Screenshot\ 2023-02-09\ at\ 13.41\ 1\ \(1\).png);
+    display: flex;
+    align-items: center;
+}
+
