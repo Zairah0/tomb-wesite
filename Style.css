@@ -208,4 +208,8 @@ nav a{
     display: flex;
     align-items: center;
 }
+footer{
+    text-align: center;
+    font-size: 20px;
+}
 
